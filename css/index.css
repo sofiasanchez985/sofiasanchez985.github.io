@@ -1,9 +1,11 @@
 /* universal mode */
-* {
+:root, * {
+    --main-theme-color: rgb(98, 110, 136);
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    margin-top: 1%;
-    margin-left: 2%;
-  }
+}
+
 body {
       background-image: url("../images/long.jpg");
       background-size: cover;
