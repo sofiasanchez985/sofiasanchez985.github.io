@@ -1,6 +1,7 @@
 /* universal mode */
 * {
     box-sizing: border-box;
+    margin-left: 5%;
   }
   body {
       background-image: url("../images/long.jpg");
