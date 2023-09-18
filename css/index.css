@@ -2,7 +2,7 @@
 * {
     box-sizing: border-box;
   }
-body {
+  body {
       background-image: url("../images/long.jpg");
       background-size: cover;
       background-position: 0% 25%;
