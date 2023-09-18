@@ -4,11 +4,20 @@
     margin-top: 1%;
     margin-left: 2%;
   }
-  body {
+body {
       background-image: url("../images/long.jpg");
       background-size: cover;
       background-position: 0% 25%;
       background-color: #FFFFFF;
       background-attachment: fixed;
       cursor: crosshair;
+}
+h1 {
+    font-size: 80px;
+}
+h2 {
+    font-size: 20px;
+}
+h3 {
+    font-size: 24px;
 }
