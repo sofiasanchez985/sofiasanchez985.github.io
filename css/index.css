@@ -1,0 +1,12 @@
+/* universal mode */
+* {
+    box-sizing: border-box;
+  }
+body {
+      background-image: url("../images/gradient.jpg");
+      background-size: cover;
+      background-position: 0% 25%;
+      background-color: #A8322D;
+      background-attachment: fixed;
+      cursor: crosshair;
+}
